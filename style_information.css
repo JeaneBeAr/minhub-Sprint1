@@ -1,0 +1,32 @@
+.layout {
+    font-family: Arial, sans-serif;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    line-height: 1.6;
+}
+h3{
+    text-align: center;
+}
+table{
+    width: 90%;
+    margin-right: 10%;
+}
+caption{
+    margin-top: 10px;
+    font-size: 12px;
+}  
+th{
+    padding: 5px;
+    border: 2px solid rgb(7, 7, 7);
+}
+.text{
+    margin-top: 20px;
+}
+.data{
+   display: inline-flex;
+
+}
+.p_data{
+    margin-left: 100px;
+}
